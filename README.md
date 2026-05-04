@@ -58,4 +58,4 @@ the model identified **6 distinct modern archetypes**.
 - `nba_radars.png` — Statistical profile of each archetype
 
 ## Author
-Rudy Ramirez
+Rodolfo Ramirez
